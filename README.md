@@ -1,12 +1,5 @@
 <img src="https://socsportal.cit.ie/assets/images/logowhite.jpg" alt="Cork Institute of Technology" width="25%" />
 
-#### CR106 - BSc Honours Software Development
-
-# SOFT6007 - Web Development Fundamentals Project 2
-
-[![Demo](https://repository-images.githubusercontent.com/357985915/1135928b-51fe-47bd-b0b4-9c2d307ab02f)](https://szpricky.github.io/disney-character-game)
-
-[Demo](https://szpricky.github.io/disney-character-game)
 
 ## Disney Character Game
 
@@ -50,7 +43,3 @@ Create a dynamic web page using JavaScript which will allow the user to play a g
 8. Any images used should be referenced in the comments of your code. Please ensure to use the **actual website** the image is from and not just Google Images.
 9. As the Disney title is licensed and copyrighted material, please include the copyright information for Disney in the footer.
 
-Zip your project folder into one file and upload it through Canvas
-using the link for your class group.
-
-##### Patrik Richard Szilagyi, 2020

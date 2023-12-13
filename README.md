@@ -1,4 +1,3 @@
-<img src="https://socsportal.cit.ie/assets/images/logowhite.jpg" alt="Cork Institute of Technology" width="25%" />
 
 
 ## Disney Character Game
